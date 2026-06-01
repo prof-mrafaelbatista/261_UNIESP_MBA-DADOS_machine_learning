@@ -1,7 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,jupyternotebooks,venv,dotenv,pycharm,macos,windows,linux
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,visualstudiocode,jupyternotebooks,venv,dotenv,pycharm,macos,windows,linux
 
-.root
+*.root
 
 ### dotenv ###
 .env
